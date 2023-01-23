@@ -1,0 +1,17 @@
+D:\projects\ValidatorTest\ValidatorTest\bin\Debug\net7.0\ValidatorTest.exe
+D:\projects\ValidatorTest\ValidatorTest\bin\Debug\net7.0\ValidatorTest.deps.json
+D:\projects\ValidatorTest\ValidatorTest\bin\Debug\net7.0\ValidatorTest.runtimeconfig.json
+D:\projects\ValidatorTest\ValidatorTest\bin\Debug\net7.0\ValidatorTest.dll
+D:\projects\ValidatorTest\ValidatorTest\bin\Debug\net7.0\ValidatorTest.pdb
+D:\projects\ValidatorTest\ValidatorTest\bin\Debug\net7.0\FluentValidation.dll
+D:\projects\ValidatorTest\ValidatorTest\obj\Debug\net7.0\ValidatorTest.csproj.AssemblyReference.cache
+D:\projects\ValidatorTest\ValidatorTest\obj\Debug\net7.0\ValidatorTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\ValidatorTest\ValidatorTest\obj\Debug\net7.0\ValidatorTest.AssemblyInfoInputs.cache
+D:\projects\ValidatorTest\ValidatorTest\obj\Debug\net7.0\ValidatorTest.AssemblyInfo.cs
+D:\projects\ValidatorTest\ValidatorTest\obj\Debug\net7.0\ValidatorTest.csproj.CoreCompileInputs.cache
+D:\projects\ValidatorTest\ValidatorTest\obj\Debug\net7.0\ValidatorTest.csproj.CopyComplete
+D:\projects\ValidatorTest\ValidatorTest\obj\Debug\net7.0\ValidatorTest.dll
+D:\projects\ValidatorTest\ValidatorTest\obj\Debug\net7.0\refint\ValidatorTest.dll
+D:\projects\ValidatorTest\ValidatorTest\obj\Debug\net7.0\ValidatorTest.pdb
+D:\projects\ValidatorTest\ValidatorTest\obj\Debug\net7.0\ValidatorTest.genruntimeconfig.cache
+D:\projects\ValidatorTest\ValidatorTest\obj\Debug\net7.0\ref\ValidatorTest.dll
